@@ -16,10 +16,11 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/106081707/221587175-dda1c503-3b57-453a-aef9-9db189de1b6e.png">
+  <img src="https://user-images.githubusercontent.com/106081707/221587175-dda1c503-3b57-453a-aef9-9db189de1b6e.png"><img src="https://user-images.githubusercontent.com/106081707/227585483-42239c3c-a260-41ac-88e9-81e8f4ebf4c3.png" height="300">
 </div>
 
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Seaweed&layout=compact" height="200"><img src="https://github-readme-stats.vercel.app/api?username=Park-Seaweed&show_icons=true" height="200">
 </div>
+
