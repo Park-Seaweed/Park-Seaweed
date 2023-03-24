@@ -17,5 +17,5 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Park-Seaweed&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Seaweed&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Park-Seaweed&show_icons=true" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Seaweed&layout=compact" height="200">
 </div>
